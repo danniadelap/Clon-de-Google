@@ -1,0 +1,51 @@
+body{
+    font-family: Arial;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#Google-icon{
+    width: 340px;
+    height: auto;
+    margin-top: 40px;
+}
+
+section div{
+    margin: 15px;
+
+}
+
+input{
+    width: 750px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px gray solid;
+}
+
+button{
+    background-color: #f8f9fa;
+    padding: 20px 20px;
+    margin-left: 30px;
+    font-size: 24px;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+}
+
+div p{
+    font-size: 24px;
+}
+
+#englishTitle{
+    text-decoration: none;
+}

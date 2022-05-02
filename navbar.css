@@ -1,0 +1,35 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+nav div {
+    padding: 15px 15px;
+}
+
+#profilePicture{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.links{
+    font-size: 24px;
+    color: #5f6368;
+    text-decoration: none;
+    
+}
+
+.links:hover{
+    text-decoration: underline;
+}
+
+.gray-Effect:hover{
+    background-color: #b3b4b4;
+    border-radius: 50%;
+
+}
+body{
+    font-family: Arial;
+}
